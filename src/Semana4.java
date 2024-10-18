@@ -1,4 +1,3 @@
-import java.sql.SQLSyntaxErrorException;
 import java.util.Scanner;
 public class Semana4 {
     public static void main(String[] args) {
